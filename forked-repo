@@ -1,3 +1,9 @@
-cmdlet Invoke-WebRequest at command pipeline position 1
-Supply values for the following parameters:
-Uri:
+curl -s https://api.github.com/repos/sahilmomo/mcino-Introduction-to-Git-and-GitHub
+{
+  "name": "mcino-Introduction-to-Git-and-GitHub",
+  "full_name": "sahilmomo/mcino-Introduction-to-Git-and-GitHub",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
