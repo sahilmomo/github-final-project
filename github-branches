@@ -1,2 +1,4 @@
-bug-fix-typo
-* main
+git branch -vv
+* main           7d8e9f0 [origin/main] Update README after merge
+  bug-fix-typo   3a2b1c4 Fix typo in README
+  bug-fix-revert 9f8e7d6 Revert README change
