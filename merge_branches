@@ -1,0 +1,6 @@
+git checkout main
+Already on 'main'
+git merge bug-fix-typo
+Updating xxxxxxx..yyyyyyy
+Fast-forward
+ 1 file changed, 1 insertion(+), 1 deletion(-)
